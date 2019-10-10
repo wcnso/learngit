@@ -7,4 +7,5 @@ int main(){
 
 void getList(){
 	println("");
+	println("zhangsan");
 }
